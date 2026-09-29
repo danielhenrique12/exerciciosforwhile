@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //numero invertido //
     int main(){
         int n, uni, saida = 0;
 
